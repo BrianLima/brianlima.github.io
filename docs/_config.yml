@@ -1,87 +1,48 @@
 ### Site Settings ###
 title               : Brian Lima
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+                      A coder, a gamer, a maker.
+
+                      Currently developer at Nuuvem.com, leading a team developing the greatest game store in Latin America, building solutions for the gaming community.
+
+                      Also a casemodder, building projects with 3D printing, electronics and handcrafts as needed. Enthusiast of technology, games, PCs, open source and the future.
+
+                      More details in the About page, projects and etc, or reach out at my socials:
+baseurl             : "https://briano.dev/"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : BrianLima/brianlima.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : true                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
-
 ### Plugins ###
 plugins:
   - jemoji
-
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
-
 
 ### Author Info ###
 author:
   name              : Brian Lima
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
-# dribbble          : your_username
+  image             : https://i.imgur.com/E6V1gHu.jpg
   email             : opa@briano.dev
-#  facebook         : your_username
+  bluesky           : briano.dev
   github            : BrianLima
-# gitlab            : your_username
   instagram         : brianostorm
-# kaggle            : your_username
-  linkedin          : your_username
-# medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-# twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
-
+  linkedin          : brianodev
+  tiktok            : brianostorm
+  twitch            : brianostorm
 
 ### Posts ###
 permalink: /blog/:title
-
 
 ### Collections ###
 collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
-
-
-### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
-
-
-### Analytics ###
-analytics:
-  enabled: false                                        # Set true to enable analytics
-  google:
-    tracking_id: your-google-tracking-id
-
-
-### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
-
 
 ### Defaults for collections ###
 defaults:
@@ -90,17 +51,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
-
 
 ### Exclude from processing ###
 exclude:

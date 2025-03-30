@@ -95,3 +95,8 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
+
+bluesky:
+  url   : https://bsky.app/profile/
+  icon  : fa-brands fa-bluesky
+  color : 1da1f2
