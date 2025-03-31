@@ -100,3 +100,8 @@ bluesky:
   url   : https://bsky.app/profile/
   icon  : fab fa-bluesky
   color : 1da1f2
+
+tiktok:
+  url   : https://www.tiktok.com/@
+  icon  : fab fa-tiktok
+  color : ff0050
