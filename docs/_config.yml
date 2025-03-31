@@ -2,11 +2,11 @@
 title               : Brian Lima
 description         : >-
                       A coder, a gamer, a maker.
-
-                      Currently developer at Nuuvem.com, leading a team developing the greatest game store in Latin America, building solutions for the gaming community.
-
+                      <br>
+                      Currently developer at <a href="nuuvem.com">Nuuvem.com</a>, leading a team building the greatest game platform in Latin America, building solutions for the gaming community.
+                      <br>
                       Also a casemodder, building projects with 3D printing, electronics and handcrafts as needed. Enthusiast of technology, games, PCs, open source and the future.
-
+                      <br>
                       More details in the About page, projects and etc, or reach out at my socials:
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : BrianLima/brianlima.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
