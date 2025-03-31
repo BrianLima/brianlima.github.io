@@ -2,12 +2,13 @@
 title               : Brian Lima
 description         : >-
                       A coder, a gamer, a maker.
-                      <br>
-                      Currently developer at <a href="nuuvem.com">Nuuvem.com</a>, leading a team building the greatest game platform in Latin America, building solutions for the gaming community.
-                      <br>
-                      Also a casemodder, building projects with 3D printing, electronics and handcrafts as needed. Enthusiast of technology, games, PCs, open source and the future.
-                      <br>
-                      More details in the About page, projects and etc, or reach out at my socials:
+                      <br/>
+                      Currently developer at <a href="nuuvem.com">Nuuvem.com</a>, leading a team making the greatest game platform in Latin America, creating solutions for the gaming community.
+                      I mainly code as a Ruby backend developer, but i also like the .Net stack, Python... i work with Docker, Terraform and other Devops tools, can get around with frontend and dabble with mobile development.
+                      <br/>
+                      Also a casemodder, building projects with 3D printing, electronics and handcrafts as needed. Enthusiast of technology, PCs, open source and the future.
+                      <br/>
+                      <a href ="/about">Learn more about me</a>, <a href="/projects">See my projects</a>, <a href="/blog">Read me thinking out loud</a> or reach out at my socials:
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : BrianLima/brianlima.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : https://github.com/brianlima/brianlima.github.io@my-fork
@@ -32,7 +33,7 @@ author:
   github            : BrianLima
   instagram         : brianostorm
   linkedin          : brianodev
-  tiktok            : brianostorm
+  tiktok            : @brianostorm
   twitch            : brianostorm
 
 ### Posts ###
