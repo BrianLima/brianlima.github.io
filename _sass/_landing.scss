@@ -9,6 +9,8 @@
 
 #dummy {
   padding-top: 100%; /* 1:1 aspect ratio */
+  max-height: 35rem;
+  max-width: 35rem;
 }
 
 #element {
@@ -17,6 +19,8 @@
   bottom: 0;
   left: 0;
   right: 0;
+  max-height: 35rem;
+  max-width: 35rem;
 }
 
 .circle-image {
@@ -33,6 +37,4 @@
   border-radius: 30% / 50%;
   object-fit: cover;
   object-position: center;
-
-  max-height: 500px;
 }
