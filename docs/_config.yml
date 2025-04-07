@@ -58,6 +58,12 @@ defaults:
     values:
       comments: false                                   # Set to true to enable disqus comments
 
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: G-EKC9SSF2ZL
+
 ### Exclude from processing ###
 exclude:
   - README.md
