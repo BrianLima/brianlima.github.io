@@ -8,7 +8,7 @@ subtitle: 'Por que um jogo pode ser mais complexo do que parece'
 
 Em 2023, mais precisamente no dia 30 de Junho, eu apresentei no palco Games da Campus Party Brasil 2023 #CPBR15, curado pelo querido Rodrigo Sellback, a seguinte palestra, que leva como titulo o mesmo deste post, mas como já faz um bom tempo, venho aqui expor algumas observações agora que possuo o dobro de tempo neste mercado e pude observá-lo ainda mais a fundo:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQd1mxT7SLyk887Ubdy4pAq-ciCPOHcHgaAsSgj5-MPG0jwylqdmP3W6YzgLN2lPQ/embed?start=true&loop=false&delayms=30000" frameborder="0" width="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQd1mxT7SLyk887Ubdy4pAq-ciCPOHcHgaAsSgj5-MPG0jwylqdmP3W6YzgLN2lPQ/embed?start=true&loop=false&delayms=30000" frameborder="0" width="100%" height="500rem" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Um jogo moderno possui diversas facetas que vão muito além do tradicionalíssimo chapéu do "GameDev". A pessoa que se interessa em contribuir de alguma forma com a indústria de games pode escolher trabalhar com gráficos, engine, rotinas e inteligência de NPCs, otimização e performance, ou até com algumas áreas que se assemelham ao desenvolvimento mais tradicional, como interface e localização.
 
