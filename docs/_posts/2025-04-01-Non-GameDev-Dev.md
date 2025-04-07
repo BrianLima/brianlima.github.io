@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Como ser um programador na industria de jogos mas não programar jogos
+title: Como ser um programador na indústria de jogos, mas não programar jogos (diretamente)
 tags: talks gamedev dev campusparty pt-br
 cover: 'https://saopauloparacriancas.com.br/wp-content/uploads/2023/07/campus-party-cpbr-2023-data-do-evento-como-participar-onde-sera-e-mais-1200x900-1-800x600.jpg'
-subtitle: 'Por que um jogo pode ser mais complexo do que parece'
+subtitle: 'Pois um jogo pode ser mais complexo do que parece'
 ---
 
 Em 2023, mais precisamente no dia 30 de Junho, eu apresentei no palco Games da Campus Party Brasil 2023 #CPBR15, curado pelo querido Rodrigo Sellback, a seguinte palestra, que leva como titulo o mesmo deste post, mas como já faz um bom tempo, venho aqui expor algumas observações agora que possuo o dobro de tempo neste mercado e pude observá-lo ainda mais a fundo:
