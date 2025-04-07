@@ -38,7 +38,7 @@ Mas além da Nuuvem, também é possível ser um programador não-GameDev em out
 
   - <a href="https://web.archive.org/web/20250407205049/https://hitmarker.net/jobs/playstation-software-engineer-i-2958474">Software Developer @ PlayStation</a>
 
-  - <a href="">Backend PHP Developer @ SciPlay</a>
+  - <a href="https://web.archive.org/web/20250407205514/https://hitmarker.net/jobs/sciplay-php-backend-developer-2892927">Backend PHP Developer @ SciPlay</a>
 
 Ah, e também frequentemente <a href="https://careers.nuuvem.com/">temos vagas no time da Nuuvem, pra Devs e outros!</a> 😁
 
