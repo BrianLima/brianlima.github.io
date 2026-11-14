@@ -11,9 +11,19 @@
   const observer = new IntersectionObserver(revealVisibleEntries);
 
   elements.forEach((element) => {
+    if (isInViewport(element)) {
+      reveal(element);
+      return;
+    }
+
     hide(element);
     observer.observe(element);
   });
+
+  function isInViewport(element) {
+    const bounds = element.getBoundingClientRect();
+    return bounds.top < window.innerHeight && bounds.bottom > 0;
+  }
 
   function revealVisibleEntries(entries) {
     entries
