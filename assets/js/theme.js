@@ -23,8 +23,10 @@ function initTheme() {
     setTheme(themes.LIGHT);
   }
 
-  // Watch for system theme changes
+  // Follow system theme changes unless the visitor picked a theme manually
   window.matchMedia(QUERY_KEY).addEventListener("change", (e) => {
+    if (localStorage.getItem(STORAGE_KEY)) return;
+
     const newTheme = e.matches ? themes.DARK : themes.LIGHT;
     setTheme(newTheme);
   });

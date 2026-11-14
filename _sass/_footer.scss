@@ -1,6 +1,14 @@
+$social-hover-color: #6c757d;
+
 .social {
   text-decoration: none !important;
   font-size: 4rem;
+  color: var(--social-color);
+
+  &:hover,
+  &:focus {
+    color: $social-hover-color;
+  }
 }
 
 #attribution {

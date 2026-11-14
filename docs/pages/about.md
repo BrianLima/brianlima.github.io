@@ -11,7 +11,7 @@ weight: 3
 [![Twitter Follow](https://img.shields.io/twitter/follow/brianostorm?color=d83a7c&logoColor=d83a7c&style=flat-square&logo=Twitter)](https://twitter.com/brianostorm)
 [![Twitch Follow](https://img.shields.io/badge/-t.tv/brianostorm-9046ff?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/brianostorm)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianodev/)](https://www.linkedin.com/in/brianodev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:opa@briano.dev)](mailto:opa@briano.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:opa@briano.dev)](mailto:opa@briano.dev)
 [![Paypal](https://img.shields.io/badge/-Paypal-012169?style=flat-square&logo=Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9YPV3FHEFRAUQ)
 [![Coding time by Wakatime](https://wakatime.com/badge/user/f6e7f078-6884-4024-bc33-06b8af4cea11.svg)](https://wakatime.com/@f6e7f078-6884-4024-bc33-06b8af4cea11)
 
